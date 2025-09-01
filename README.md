@@ -13,4 +13,4 @@ A Python program that automates assigning press-on nail sizes for customers. Use
 1. Install Python 3
 2. Clone this repository:
    ```bash
-   git clone <your-repo-URL>
+   git clone https://github.com/zararahim/nail-size-automation.git
